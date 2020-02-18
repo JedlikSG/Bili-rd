@@ -10,6 +10,8 @@ namespace Biliárd
     {
         static void Main(string[] args)
         {
+
+            Console.ReadKey();
         }
     }
 }
